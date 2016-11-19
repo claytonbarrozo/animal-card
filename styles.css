@@ -1,0 +1,28 @@
+body { 
+width: 380px;
+margin: 0 auto;
+border-style: outset;
+padding: 20px;
+}
+p { 
+font-style: italic;
+}
+ul { 
+list-style-type:none;
+padding: 1px;
+margin: auto;
+}
+img { 
+border-style: groove;
+width: 100%;
+
+}
+.content { 
+
+padding: 1px;
+margin: auto;
+width: 100%;
+}
+span {
+	font-weight: bold;
+}
